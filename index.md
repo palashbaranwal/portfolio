@@ -15,6 +15,6 @@ The agenda of this project to reach an accuracy of 99.4 % within 15 epochs and 1
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/palashbaranwal/edge_detection)
 
-<center><img src="images/financial_modeling.jpg"/></center>
+<center><img src="images/edge_detection.jpg"/></center>
 
 ---
